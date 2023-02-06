@@ -1,0 +1,7 @@
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\bin\Debug\LE03_02_AltenburgerNew.exe
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\bin\Debug\LE03_02_AltenburgerNew.pdb
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\obj\Debug\LE03_02_AltenburgerNew.csproj.AssemblyReference.cache
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\obj\Debug\LE03_02_AltenburgerNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\obj\Debug\LE03_02_AltenburgerNew.csproj.CoreCompileInputs.cache
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\obj\Debug\LE03_02_AltenburgerNew.exe
+C:\Users\Andre\RiderProjects\LE03_02_AltenburgerNew\LE03_02_AltenburgerNew\obj\Debug\LE03_02_AltenburgerNew.pdb
